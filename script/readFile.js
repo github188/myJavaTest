@@ -1,0 +1,1 @@
+var fos = new ActiveXObject("Scripting.FileSystemObject");
